@@ -851,3 +851,25 @@ address {
 .panel p {
   padding: 5px 20px 30px;
 }
+
+
+
+
+.alink a:link {
+  text-decoration: none;
+  
+}
+
+.alink a:visited {
+  text-decoration: none;
+}
+
+.alink a:hover {
+  text-decoration: underline;
+  color: rgba(1, 175, 255, 0.527);
+  
+}
+
+.alink a:active {
+  text-decoration: underline;
+}
